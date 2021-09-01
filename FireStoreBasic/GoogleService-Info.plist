@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>310627549832-t1ohmgk59qt0dlqons6cdag09uf1g43j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.310627549832-t1ohmgk59qt0dlqons6cdag09uf1g43j</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDGcJ-wMhYvTctaMoCZtqZADG4E1FEVCFQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>310627549832</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>createmyself-hechizan.com.FireStoreBasic</string>
+	<key>PROJECT_ID</key>
+	<string>firestorebasic-45f07</string>
+	<key>STORAGE_BUCKET</key>
+	<string>firestorebasic-45f07.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:310627549832:ios:2208bb5765963bb939153d</string>
+</dict>
+</plist>
